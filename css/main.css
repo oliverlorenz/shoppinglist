@@ -1,0 +1,36 @@
+html, body 
+{
+	height: 100%;
+	position: relative;
+}
+
+.bottomnav 
+{
+	position: fixed;
+	bottom: 0;
+	right: 1em;
+	line-height: 3em;	
+}
+
+label, input {
+	line-height: 2em;
+	width: 100%;
+}
+
+input {
+	margin-bottom: 1em;
+}
+
+@media print {
+
+	.column1 {
+		width: 80px;
+	}
+
+	.column2 .name {
+		display: block;
+		font-size: 1.5em;
+		width: 200px;
+	}
+
+}

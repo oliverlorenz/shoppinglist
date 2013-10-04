@@ -1,0 +1,13 @@
+{
+    "name": "oliverlorenz/shoppinglist",
+    "require": {
+        "yiisoft/yii": "dev-master",
+        "2amigos/yiistrap": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Oliver Lorenz",
+            "email": "mail@oliverlorenz.com"
+        }
+    ]
+}
